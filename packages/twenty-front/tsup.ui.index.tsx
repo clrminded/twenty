@@ -51,6 +51,7 @@ export * from './src/modules/ui/navigation/menu-item/components/MenuItemMultiSel
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemMultiSelectAvatar';
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemNavigate';
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemSelect';
+export * from './src/modules/ui/navigation/menu-item/components/MenuItemSelectTag';
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemSelectAvatar';
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemSelectColor';
 export * from './src/modules/ui/navigation/menu-item/components/MenuItemToggle';
